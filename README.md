@@ -1,6 +1,6 @@
 # Dog-Identification-App
 
-This notebook intriduces one of the most popular projects using convolutional neural networks. The goal is to classify images of dogs according to their breed. At the end of this project, we will develop an algorithm to accept any user-supplied image as input. Then, estimatea the the dog's breed if a dog is detected in the image. If a human is detected, it will provide an estimate of the dog breed that is most resembling. In this real-world setting, we will piece together a series of models to perform different tasks; for instance, the algorithm that detects humans in an image will be different from the CNN that infers dog breed. 
+This notebook introduces one of the most popular projects using convolutional neural networks. The goal is to classify images of dogs according to their breed. At the end of this project, we will develop an algorithm to accept any user-supplied image as input; then, estimate the dog's breed if a dog is detected in the image. If a human is detected, it will provide an estimate of the dog breed that is most resembling. In this real-world setting, we will piece together a series of models to perform different tasks; for instance, the algorithm that detects humans in an image will be different from the CNN that infers dog breeds.
 
 ## The Road Map
 This notebook is broken into seprate steps as follows:
